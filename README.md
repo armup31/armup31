@@ -3,4 +3,3 @@ Hi there, 👋 I'm a 16 year old fullstack developer. Currently learning web dev
 ![](https://discord.c99.nl/widget/theme-3/742612257275641876.png)
 
 ![](https://github-readme-stats.vercel.app/api?username=armup31&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=GitHub%20Stats)
-![](https://grabe.infiinite31.live/)
