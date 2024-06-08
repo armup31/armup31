@@ -1,4 +1,4 @@
-Hi there, 👋 I'm a 17 year old fullstack developer. Currently learning web development and I love making discord bots. You can contact me for making you a custom discord bot or website.
+Hi there, 👋 I'm a 17 year old developer. Currently learning web development and I love making bots.
 
 [![](https://discord.c99.nl/widget/theme-3/742612257275641876.png)](https://discord.com/users/742612257275641876)
 
